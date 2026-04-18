@@ -2,7 +2,7 @@
 This is a hackpad which is cool and coooool!!!!
 
 
-3d view 
+3d view of the PCB
 <img width="706" height="848" alt="3d3" src="https://github.com/user-attachments/assets/fd69fa63-3931-4244-acc6-56f3b79ce725" />
 
 <img width="1175" height="856" alt="3d2" src="https://github.com/user-attachments/assets/9a7799d4-8fb0-40fc-90db-c78a76642541" />
@@ -17,6 +17,6 @@ The PCB blue print
 
 
 
-Schemativ represeintation
+Schematic represeintation of the PCB
 <img width="1251" height="557" alt="schematicsview" src="https://github.com/user-attachments/assets/a44d88bc-bad5-4b32-abae-0810e4cfa948" />
 <img width="1251" height="557" alt="schematicsview" src="https://github.com/user-attachments/assets/ae8419f9-c976-4514-85e9-adc64461c4e7" />
