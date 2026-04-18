@@ -1,6 +1,9 @@
 # SimmySam
-This is a hackpad which is cool and coooool!!!!
-
+This is a hackpad which is cool and coooool!!! (lol)
+This consist of 5 keys and a small cute display and a microcontroller (ofc) hehe
+and this would be programmed to like play certain combinations and then would also would like do cool stuff, like playing different voices, animations, didfferent functions in computer and a small mini game!!!
+it would sure be worth it!! hehe thanks, 
+below are the pictures of the pcb.
 
 3d view of the PCB
 <img width="706" height="848" alt="3d3" src="https://github.com/user-attachments/assets/fd69fa63-3931-4244-acc6-56f3b79ce725" />
